@@ -21,6 +21,8 @@
     font-size: 0;
     cursor: pointer;
     transition-duration: 5s;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .tiles-item:nth-child(-n+3){
@@ -114,6 +116,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logo-small{
+    transition-duration: 1s;  
+}
+.logo-small:hover{
+    transform: rotateZ(1620deg);
+    transition-timing-function: ease-out;
+    transition-duration: 2s;  
 }
 
 .footer-copyright{

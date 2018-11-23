@@ -41,6 +41,7 @@ padding: 0px;
     display: flex;
     background-image: url(../img/Layer\ 4@1X.png);
     color: white;
+    background-size: cover;
     }
 .title-serv{
     font-family: "Lato";

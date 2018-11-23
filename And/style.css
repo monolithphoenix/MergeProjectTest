@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.whatwedo{
+    position: relative;
+    text-align: center;
+    margin:100px  auto 0;
+    width: 902px;
+    border: 1px solid black;
+    display: block;
+}
+.title-whatwedo{
+    display: block;
+    top: -30px;
+    left: 22%;
+    position: absolute;
+    font-family: 'Lato';
+    font-size: 56px;
+    width: 500px;
+    background-color: white;
+    text-transform: uppercase;
+}
+.whatbox1{
+    padding-top:125px; 
+    width: 501px;
+    margin: 0 auto;
+}
+.whatbox2{
+    padding-top: 109px;
+    width: 501px;
+    margin: 0 auto;
+}
+.whatbox3{
+    padding-top:93px;
+    width: 501px;
+    margin: 0 auto;
+}
+.what-title{
+    padding-top:40px;
+    font-family: 'Lato';
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.what-p{
+width: 541px;
+padding-top: 40px;
+font-family: 'Lato';
+font-weight: 300;
+font-size: 14px;
+line-height: 1.8;
+}
+.what-px{
+width: 541px;
+/* padding-bottom: 90px; */
+font-family: 'Lato';
+font-weight: 300;
+font-size: 14px;
+line-height: 1.8;
+}
+.what-icon1{
+    width: 80px;
+    height: 83px;
+}
+.what-pt{
+    padding-bottom: 90px;
+    width: 541px;
+padding-top: 40px;
+font-family: 'Lato';
+font-weight: 300;
+font-size: 14px;
+line-height: 1.8;
+}

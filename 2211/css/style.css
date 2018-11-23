@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
+
+*{
+margin: 0 auto;
+padding: 0px;
+}
+
+.ABOUT{
+    width: 1920px;
+    display: flex;
+}
+.border{
+    width: 900px;
+    margin: 160px 510px 159px 510px;
+}
+.title-us{
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 56px;
+    padding: 0 106px;
+    text-align: center;
+    }
+.text{
+    font-family: "Lato";
+    font-weight: lighter;
+    font-size: 16px;
+    padding: 76px 168px 40px 178px;
+    text-align: center;
+    }
+.two{
+    padding: 33px 234px 55px 234px;
+    }
+.border-serv{
+    width: 900px;
+    margin: 128px 510px 109px 510px;
+    border: 1px  solid white;
+    }
+    
+.SERVICES{
+    width: 1920px;
+    display: flex;
+    background-image: url(../img/Layer\ 4@1X.png);
+    color: white;
+    }
+.title-serv{
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 56px;
+    padding: 0 110px;
+    text-align: center;
+    color: white;
+}
+.text-three{
+    font-family: "Lato";
+    font-weight: lighter;
+    font-size: 16px;
+    padding: 62px 168px 56px 168px;
+    text-align: center;  
+    width: 556px;  
+    color: white;
+}
+
